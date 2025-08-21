@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rushikeshmundhe
-- 👀 I’m interested in learning always new things and experiencing them
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+   - Interest Linux Ethusiast|SQL|Power BI|Python|Machine Learning|Tableau
 - 📫 reach me on mail rushikeshmundhe1@gmail.com
 
 <!---
