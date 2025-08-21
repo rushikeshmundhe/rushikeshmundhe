@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rushikeshmundhe
    - Interest Linux Ethusiast|SQL|Power BI|Python|Machine Learning|Tableau
-- 📫 reach me on mail rushikeshmundhe1@gmail.com
+- 📫 reach me on mail rushikeshmundhe1@gmail.com/rushikeshmundhe018@gmail.com
 
 <!---
 rushikeshmundhe/rushikeshmundhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
